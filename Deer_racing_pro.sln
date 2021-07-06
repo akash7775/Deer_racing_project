@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deer_racing_pro", "Deer_racing_pro\Deer_racing_pro.csproj", "{D92D4024-1009-41D8-8A8F-4818D9B7BB6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deer_racing_proTests", "Deer_racing_proTests\Deer_racing_proTests.csproj", "{68F38611-FB84-481E-BE48-55421BFA706A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D92D4024-1009-41D8-8A8F-4818D9B7BB6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D92D4024-1009-41D8-8A8F-4818D9B7BB6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D92D4024-1009-41D8-8A8F-4818D9B7BB6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D92D4024-1009-41D8-8A8F-4818D9B7BB6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68F38611-FB84-481E-BE48-55421BFA706A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F38611-FB84-481E-BE48-55421BFA706A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F38611-FB84-481E-BE48-55421BFA706A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F38611-FB84-481E-BE48-55421BFA706A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14EF9D84-BA5E-429A-9AC7-1E5B5E99F049}
+	EndGlobalSection
+EndGlobal
